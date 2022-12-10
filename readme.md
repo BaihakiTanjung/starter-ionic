@@ -1,7 +1,10 @@
 Installation
 
 `npm install or yarn install`
-`ionic server`
+
+Run Project
+
+`ionic serve`
 
 Sync to device 
 
